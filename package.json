@@ -1,12 +1,12 @@
 {
-  "name": "Bot",
+  "name": "FahaddXD",
   "version": "0.0.0",
-  "description": "Create By NovXd",
+  "description": "Create By FahaddXD",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Sanzz Official",
+  "author": "FahaddXD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
